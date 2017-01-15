@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
   def top
-    puts "test"
+    puts "test2222222"
   end
 end
